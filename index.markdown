@@ -3,12 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Links
+title: Home
 ---
 
 
-
-[Katolska Kyrkan officiella webbsidan](https://www.katolskakyrkan.se/)
 
 
 
