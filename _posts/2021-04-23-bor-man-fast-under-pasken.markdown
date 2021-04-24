@@ -2,8 +2,12 @@
 layout: post
 title:  "Katolsk.nu"
 date:   2021-04-23 12:55:22 +0200
-categories: 
+categories: påsk fasta
 ---
+* Translated from (CatholicAnswers)[https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter] with their permissions. Original article published on 23/04/2021 by (Joe Heschmeyer)[https://www.catholic.com/profile/joe-heschmeyer] with the original title: "Should You Be Fasting During Easter?"*
+
+# Bör man fasta under påsken?
+## Fastan under påskens fredagar förhindrar att vår påskhögtid blir så hög att vi glömmer korset.
 
 Det är välkänt att katoliker avstår från kött på fredagar under fastan, och att askonsdagen och långfredagen är fastedagar då vi skär ner på hur mycket vi äter. Men hur är det med resten av året? Borde vi avstå från kött och fasta på andra fredagar? Och i synnerhet, hur är det just nu, under påsken? Det är lätt att låta legalistisk när man svarar på dessa frågor, så låt oss börja med att lägga upp något av en biblisk och andlig ram:
 
@@ -28,5 +32,3 @@ Allt detta upphävs helt och hållet om "en högtid infaller på en fredag" (can
 Så låt oss under denna årstid behålla denna anda av fredagsbön, utan att förlora ett uns av vår påskglädje!
 
 *De som inte bör fasta eller avstå är undantagna, inklusive små barn, gravida mammor eller mammor som ammar och personer som lider av sjukdom. Att fasta och avstå från kött får aldrig äventyra din eller ditt barns hälsa.
-
-Translated with www.DeepL.com/Translator (free version)
