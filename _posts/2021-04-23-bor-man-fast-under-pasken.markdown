@@ -4,7 +4,7 @@ title:  "Bör man fasta under påsken?"
 date:   2021-04-23 12:55:22 +0200
 categories: påsk fasta
 ---
-* Translated from (CatholicAnswers)[https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter] with their permissions. Original article published on 23/04/2021 by (Joe Heschmeyer)[https://www.catholic.com/profile/joe-heschmeyer] with the original title: "Should You Be Fasting During Easter?"*
+*Translated from [CatholicAnswers](https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter) with their permission. Original article published on 23/04/2021 by [Joe Heschmeyer](https://www.catholic.com/profile/joe-heschmeyer) with the original title: "Should You Be Fasting During Easter?"*
 
 # Bör man fasta under påsken?
 ## Fastan under påskens fredagar förhindrar att vår påskhögtid blir så hög att vi glömmer korset.
