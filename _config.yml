@@ -28,7 +28,7 @@ lang: sv
 locale: sv_SE
 show_excerpts: true
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  katolsknu
 
 # Build settings
 theme: minima
