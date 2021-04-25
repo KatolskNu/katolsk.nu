@@ -2,7 +2,7 @@
 layout: post
 title:  "Hängivenhet till den heliga jungfrun"
 date:   2021-04-25 12:55:22 +0200
-categories: påsk fasta
+categories: maria
 description: Om Gud är den ende som ska tillbedjas, om Kristus är den ende som ska dyrkas som vår frälsare, vilket slags heder kan då visas Maria, Jesu moder?
 excerpt: Om det är Gud ensam som ska tillbedjas, om det är Kristus ensam som ska tillbedjas som vår återlösningsmedlare, får man då hedra Maria, Jesu moder, på något sätt, och i så fall vilken typ av ära?
 ---
