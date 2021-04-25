@@ -21,9 +21,11 @@
 title: Katolsk.Nu
 email: contact@katolsk.nu
 description: >- # this means to ignore newlines until "baseurl:"
- Collection of Catholic links in Swedish
+ Collection of Catholic answers in Swedish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://katolsk.nu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://katolsk.nu" # the base hostname & protocol for your site, e.g. http://example.com
+lang: sv
+locale: sv_SE
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
