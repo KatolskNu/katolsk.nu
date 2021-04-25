@@ -19,7 +19,7 @@ Innan jag förklarar för dig, min käre vän, den katolska doktrinen och prakti
 
 ## Vilken heder kan man visa Maria?
 
-Om Gud ensam ska tillbe, om Kristus ensam ska tillbe som vår återlösningsmedlare, får man då visa Maria, Jesu moder, någon heder, och i så fall vilken typ av heder?
+Om Gud ensam ska tillbes, om Kristus ensam ska tillbes som vår återlösningsmedlare, får man då visa Maria, Jesu moder, någon heder, och i så fall vilken typ av heder?
 
 Det finns en medfödd lag som är ingraverad i människans hjärta och som dikterar att särskild heder bör visas till varelser som är klädda med en särskild värdighet. Barn måste hedra sina föräldrar, tjänare måste vörda sina herrar, soldater måste respektera sina officerare och undersåtar måste visa lojalitet mot sina härskare. Gud själv har i sin uppenbarelse till människan faktiskt beordrat denna heder som naturlagen föreskriver. Våra icke-katolska vänner, som följer förnuftet och accepterar Bibelns undervisning, kan inte annat än erkänna denna princip eller sanning. Det är således klart som en plätt att det vid sidan av den högsta ära som vi ger Gud, och som vi kallar tillbedjan, finns en lägre ära som vi inte bara kan utan måste visa alla skapade varelser som är klädda med särskild värdighet.
 
