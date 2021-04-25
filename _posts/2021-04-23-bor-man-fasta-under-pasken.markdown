@@ -6,8 +6,14 @@ categories: påsk fasta
 description: Fastan under påskens fredagar förhindrar att vår påskhögtid blir så hög att vi glömmer korset. 
 excerpt: Det är välkänt att katoliker avstår från kött på fredagar under fastan, och att askonsdagen och långfredagen är fastedagar då vi skär ner på hur mycket vi äter. Men hur är det med resten av året?
 ---
-*Translated from [CatholicAnswers](https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter) with their permission. Original article published on 23/04/2021 by [Joe Heschmeyer](https://www.catholic.com/profile/joe-heschmeyer) with the original title: "Should You Be Fasting During Easter?"*
 
+
+{% include translated.html 
+    title="Should You Be Fasting During Easter?" 
+    url="https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter" date="23/04/2021" 
+    author="Joe Heschmeyer" 
+    authorUrl="https://www.catholic.com/profile/joe-heschmeyer" 
+%}
 
 ## Fastan under påskens fredagar förhindrar att vår påskhögtid blir så hög att vi glömmer korset.
 

@@ -6,9 +6,13 @@ categories: maria
 description: Om Gud är den ende som ska tillbedjas, om Kristus är den ende som ska dyrkas som vår frälsare, vilket slags heder kan då visas Maria, Jesu moder?
 excerpt: Om det är Gud ensam som ska tillbedjas, om det är Kristus ensam som ska tillbedjas som vår återlösningsmedlare, får man då hedra Maria, Jesu moder, på något sätt, och i så fall vilken typ av ära?
 ---
-*Translated from [CatholicAnswers](https://www.catholic.com/magazine/print-edition/devotion-to-the-blessed-virgin) with their permission. Original article published on 23/04/2021 by [Fr. M.D. Forrest M.S.C.](https://www.catholic.com/profile/fr-md-forrest-msc) with the original title: "Devotion to the Blessed Virgin" on 1/1/2007*
 
-{% include translated.html url="https://www.catholic.com/magazine/print-edition/devotion-to-the-blessed-virgin" date="1/1/2007" author="Fr. M.D. Forrest M.S.C." title="Devotion to the Blessed Virgin" authorUrl="https://www.catholic.com/profile/fr-md-forrest-msc" %}
+{% include translated.html 
+    title="Devotion to the Blessed Virgin" 
+    url="https://www.catholic.com/magazine/print-edition/devotion-to-the-blessed-virgin" date="1/1/2007" 
+    author="Fr. M.D. Forrest M.S.C." 
+    authorUrl="https://www.catholic.com/profile/fr-md-forrest-msc"
+%}
 
 Innan jag förklarar för dig, min käre vän, den katolska doktrinen och praktiken om den heliga Jungfru Maria, låt mig säga två sanningar som kyrkan lär ut med eftertryck: (1) Gud ensam, den högsta, oändliga varelsen, måste tillbedas. Att tillbe någon varelse, hur upphöjd den än är, skulle vara att begå avgudadyrkan. Det är helt enkelt absurt och även grovt orättvist att säga att katoliker dyrkar Maria. (2) Jesus Kristus är ensam vår medlare av frälsning. Han ensam har genom sitt högsta offer, av oändligt värde, återlöst och friköpt mänskligheten.
 
