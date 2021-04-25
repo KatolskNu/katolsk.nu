@@ -3,6 +3,7 @@ layout: post
 title:  "Bör man fasta under påsken?"
 date:   2021-04-23 12:55:22 +0200
 categories: påsk fasta
+description: Det är välkänt att katoliker avstår från kött på fredagar under fastan, och att askonsdagen och långfredagen är fastedagar då vi skär ner på hur mycket vi äter. 
 ---
 *Translated from [CatholicAnswers](https://www.catholic.com/magazine/online-edition/should-you-be-fasting-during-easter) with their permission. Original article published on 23/04/2021 by [Joe Heschmeyer](https://www.catholic.com/profile/joe-heschmeyer) with the original title: "Should You Be Fasting During Easter?"*
 
