@@ -14,7 +14,7 @@ excerpt: Om det är Gud ensam som ska tillbedjas, om det är Kristus ensam som s
     authorUrl="https://www.catholic.com/profile/fr-md-forrest-msc"
 %}
 
-Innan jag förklarar för dig, min käre vän, den katolska doktrinen och bruket kring om den heliga Jungfru Maria, låt mig säga två sanningar som kyrkan lär ut med eftertryck: (1) Gud ensam, den högsta, oändliga varelsen, måste tillbedas. Att tillbe någon varelse, hur upphöjd den än är, skulle vara att begå avgudadyrkan. Det är helt enkelt absurt och även grovt orättvist att säga att katoliker dyrkar Maria. (2) Jesus Kristus är ensam vår medlare av frälsning. Han ensam har genom sitt högsta offer, av oändligt värde, återlöst och friköpt mänskligheten.
+Innan jag förklarar för dig, min käre vän, den katolska doktrinen och bruket kring den heliga Jungfru Maria, låt mig säga två sanningar som kyrkan lär ut med eftertryck: (1) Gud ensam, den högsta, oändliga varelsen, måste tillbedas. Att tillbe någon varelse, hur upphöjd den än är, skulle vara att begå avgudadyrkan. Det är helt enkelt absurt och även grovt orättvist att säga att katoliker dyrkar Maria. (2) Jesus Kristus är ensam vår medlare av frälsning. Han ensam har genom sitt högsta offer, av oändligt värde, återlöst och friköpt mänskligheten.
 
 
 ## Vilken respekt kan man visa Maria?
@@ -31,7 +31,7 @@ Av alla varelser har Maria det unika privilegiet att tillbe sitt eget barn. Enda
 
 Jag ber dig, min käre vän, att noggrant läsa det första kapitlet i Lukasevangeliet, vers 26 till vers 55. Det är mycket svårt att förstå hur någon kristen kan studera detta avsnitt och sedan vägra att vörda Maria. Varför, "Hell Maria", som katoliker älskar att rikta till den heliga jungfrun, ges uttryckligen där; en del av det sades av ängeln Gabriel och en del av Elisabet. Ängeln var inspirerad av Gud och Elisabet "var fylld av den heliga anden" (v. 41). Låt oss sätta ihop de ord som ängeln Gabriel och Elisabet riktade till Maria: "Hell dig, full av nåd, Herren är med dig, välsignad är du bland kvinnor" (v. 28). "Välsignad är du bland kvinnor, och välsignad är frukten av ditt liv". Här har vi den hälsning som katoliker riktar till Maria. Det enda tillägg vi har gjort är de två namnen "Maria" och "Jesus". Så när katolikerna säger Ave Maria följer de alltså uttryckligen Bibeln. Jag ska ta upp den andra delen av denna bön senare.
 
-Du kommer att lägga märke till, min käre vän, att Maria i den sublima lovsång som kallas Magnificat, som den inspirerade författaren har skrivit ner från vers 46 till 55, förklarade: "Se, från och med nu skall alla släkten kalla mig välsignad" (v. 48). Vem, frågar jag, uppfyller denna profetia: de som vägrar att använda adjektivet välsignad på Jungfru Maria, eller katolikerna, som älskar att kalla Maria för den välsignade jungfrun?
+Du kommer att lägga märke till, min käre vän, att Maria i den sublima lovsång som kallas Magnificat, som den evangelisten har skrivit ner från vers 46 till 55, förklarade: "Se, från och med nu skall alla släkten kalla mig välsignad" (v. 48). Vem, frågar jag, uppfyller denna profetia: de som vägrar att använda adjektivet välsignad på Jungfru Maria, eller katolikerna, som älskar att kalla Maria för den välsignade jungfrun?
 
 ## Anrop av Maria
 
