@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+*{
+font-family: 'Roboto', sans-serif;
+}
+
+article p {
+    font-size: 20px; 
+}
+
+ul.post-list > li {
+    font-size: 18px;
+}
+
