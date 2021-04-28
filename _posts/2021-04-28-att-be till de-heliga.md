@@ -4,8 +4,8 @@ title:  "Att be till de heliga"
 date:   2021-04-28 15:00:00 +0200
 categories: tract
 tags: heliga bön 
-description: Ave Maria är den äldsta, mest upprepade, mest imiterade och mest kraftfulla kristna bönen. Klicka här för att läsa mer om dess historia och betydelse.
-excerpt: Ave Maria är den äldsta, mest upprepade, mest imiterade och mest kraftfulla kristna bönen.
+description: Många ifrågasätter det historiska bruket att be helgon i himlen om deras förbön. Utforska de vanligaste argumenten och den katolska uppfattningen.
+excerpt: Många ifrågasätter det historiska bruket att be helgon i himlen om deras förbön. Utforska de vanligaste argumenten och den katolska uppfattningen.
 ---
 {% include translated.html 
     title="Praying to the Saints" 
