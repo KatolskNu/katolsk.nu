@@ -5,12 +5,12 @@
 ---
 # Add a new article
 ## Easy method
-1. Choose an interesting article [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
+1. Choose an interesting article on [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
 2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
 3. Send it by mail to us at contact@katolsk.nu
 
 ## Advanced method
-1. Choose an interesting article [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
+1. Choose an interesting article on [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
 2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
 5. Paste the content in a new file in the ```_posts``` folder with the title ```YEAR-month-day-title.md```. You can do this from the Github web interface.
 6. Add the header to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
