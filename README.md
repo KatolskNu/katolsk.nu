@@ -1,6 +1,6 @@
 # Katolsk.Nu
 
-[Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish.
+[Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish. It is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages.
 
 # QA
 ## Why ?
