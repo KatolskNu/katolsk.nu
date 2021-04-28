@@ -266,6 +266,7 @@ DEPENDENCIES
   github-pages (~> 214)
   jekyll-archives
   jekyll-feed (~> 0.12)
+  jekyll-sitemap
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
