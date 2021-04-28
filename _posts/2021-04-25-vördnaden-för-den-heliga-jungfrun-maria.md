@@ -2,7 +2,8 @@
 layout: post
 title:  "Vördnaden för den Heliga Jungfrun Maria"
 date:   2021-04-25 12:55:22 +0200
-categories: maria
+categories: article
+tags: maria devotion bön
 description: Om Gud är den ende som ska tillbedjas, om Kristus är den ende som ska dyrkas som vår frälsare, vilket slags heder kan då visas Maria, Jesu moder?
 excerpt: Om det är Gud ensam som ska tillbedjas, om det är Kristus ensam som ska tillbedjas som vår återlösningsmedlare, får man då vörda Maria, Jesu moder, på något sätt, och i så fall vilken typ av vördnad?
 ---
@@ -35,7 +36,7 @@ Du kommer att lägga märke till, min käre vän, att Maria i den sublima lovså
 
 ## Anrop av Maria
 
-Vi vördar inte bara Maria, vi åberopar henne också eller ber om hennes förbön. Vissa motståndare säger att vi borde be till Gud ensam. Katoliker ber verkligen direkt till Gud, för de anser att Fader vår är den bästa och vackraste av alla böner och reciterar den ofta. Men de ber också till Maria och ber henne att gå i förbön för dem tillsammans med sin gudomliga Son.
+Vi vördar inte bara Maria, vi åberopar henne också eller ber om hennes förbön. Vissa motståndare säger att vi borde be till Gud ensam. Katoliker ber verkligen direkt till Gud, för de anser att *Fader vår* är den bästa och vackraste av alla böner och reciterar den ofta. Men de ber också till Maria och ber henne att gå i förbön för dem tillsammans med sin gudomliga Son.
 
 Våra icke-katolska vänner ber om varandras böner, och vi berömmer dem för detta. Men om jag kan säga till en syndare på denna jord, och han kan säga till mig, en annan syndare: "Be för mig", varför skulle vi då inte kunna säga till Guds syndfria moder som tronar i himlen: "Be för oss"? Om Paulus bad romarna att "hjälpa honom i deras böner för honom till Gud" (Rom 15:16) och om han skrev till thessalonikerna: "Be för oss", varför kan vi då inte be Maria, som är mycket heligare och närmare Gud än de romerska och thessaloniska konvertiterna, att be för oss? Vi läser faktiskt i Gamla testamentet att Gud på ett positivt sätt beordrade Elifas och hans två vänner att gå till den helige mannen Job och be om hans förbön: "Min tjänare Job skall be för er; hans ansikte skall jag ta emot, för att ni inte skall tillskrivas dårskap" (Job 42:8).
 

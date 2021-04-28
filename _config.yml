@@ -21,7 +21,7 @@
 title: Katolsk.Nu
 email: contact@katolsk.nu
 description: >- # this means to ignore newlines until "baseurl:"
- Collection of Catholic answers in Swedish. Please report any translation error by opening a new issue on the Github repo.
+ Katolsk.Nu is an open-source blog for Catholic apologetics in Swedish.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://katolsk.nu" # the base hostname & protocol for your site, e.g. http://example.com
 lang: sv
@@ -29,11 +29,28 @@ locale: sv_SE
 show_excerpts: true
 # twitter_username: jekyllrb
 github_username:  katolsknu
+rss: RSS
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+  - jekyll-seo-tag
+
+jekyll-archives:
+  enabled: 
+    - categories
+    - tags
+
+header_pages:
+  - links.markdown
+  - home.markdown
+
+# FIx date format
+minima:
+  date_format: "%Y-%m-%d"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
