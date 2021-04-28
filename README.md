@@ -2,6 +2,37 @@
 
 [Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish. It is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages.
 
+---
+# Add a new article
+## Easy method
+1. Choose an interesting article [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
+2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
+3. Send it by mail to us at contact@katolsk.nu
+
+## Advanced method
+1. Choose an interesting article [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
+2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
+5. Paste the content in a new file in the ```_posts``` folder with the title ```YEAR-month-day-title.md```. You can do this from the Github web interface.
+6. Add the header to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
+```
+---
+layout: post
+title:  "Att be till de heliga"
+date:   2021-04-28 15:00:00 +0200
+categories: tract
+tags: heliga bön 
+description: Många ifrågasätter det historiska bruket att be helgon i himlen om deras förbön. Utforska de vanligaste argumenten och den katolska uppfattningen.
+excerpt: Det historiska kristna bruket att be våra avlidna bröder och systrar i Kristus - de heliga - om deras förbön har angripits under de senaste hundra åren. Även om bruket går tillbaka till kristendomens tidigaste dagar och delas av katoliker, östortodoxa, andra östliga kristna och till och med av vissa anglikaner, är det fortfarande utsatt för kraftiga angrepp från många inom den protestantiska rörelsen som startade på 1500-talet.
+---
+{% include translated.html 
+    title="Praying to the Saints" 
+    url="https://www.catholic.com/tract/praying-to-the-saints"
+    date="2021" 
+    author="CatholicAnswers" 
+    authorUrl="https://www.catholic.com/"
+%}
+```
+---
 # QA
 ## Why ?
 There is a lack of Catholic content in Swedish. It is technically not an issue as the majority of Swedes can speak English, but the theological vocabulary makes it less accessible. I believe that having content in Swedish will make it easier for people to find answers to their questions.
@@ -27,6 +58,5 @@ You can also submit a pull request directly.
 
 ## A post does not make sense at all !
 The translation result is usually pretty good and need little correction but some problems might appear on more advanced content. Just [open a new issue](https://github.com/KatolskNu/katolsk.nu/issues/new), so that we will try to fix it or delete it.
-
 
 
