@@ -3,8 +3,8 @@ layout: post
 title:  "Är kanoniseringar ofelbara?"
 date:   2021-05-06 11:01:00 +0200
 categories: qa
-description: Kan en saligförklarad person väljas som konfirmationsnamn? Hitta det katolska svaret här.
-excerpt: Kan en saligförklarad person väljas som konfirmationsnamn? Hitta det katolska svaret här.
+description: Om kyrkan förklarar någon helig, hur kan vi då med absolut säkerhet veta att han eller hon är i himlen?
+excerpt: Om kyrkan förklarar någon helig, hur kan vi då med absolut säkerhet veta att han eller hon är i himlen?
 ---
 
 
