@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kan kyrkan någonsin välsigna ett samkönat äktenskap?"
+title:  "Kan Kyrkan någonsin välsigna ett samkönat äktenskap?"
 date:   2021-05-06 10:39:00 +0200
 categories: qa
 description: Den katolska kyrkan kan aldrig välsigna ett "äktenskap" mellan personer av samma kön eftersom ett sådant arrangemang inte alls är ett äktenskap. Klicka här för att läsa mer.
@@ -14,7 +14,7 @@ excerpt: Kan homosexuella äktenskap någonsin vara syndfria? Kan en präst väl
      date="06/05/2021 (accessed)" 
     author="Tom Nash" 
     authorUrl="https://www.catholic.com/profile/tom-nash" 
-%}
+%}a
 
 ## Fråga:
 Kan homosexuella äktenskap någonsin vara syndfria? Kan en präst välsigna ett homosexuellt par?
