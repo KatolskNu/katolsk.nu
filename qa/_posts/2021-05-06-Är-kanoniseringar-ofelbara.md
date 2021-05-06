@@ -16,9 +16,10 @@ excerpt: Kan en saligförklarad person väljas som konfirmationsnamn? Hitta det 
     authorUrl="https://www.catholic.com/profile/fr-charles-grondin" 
 %}
 
-Fråga:
+## Fråga:
 Om kyrkan förklarar någon helig, hur kan vi då med absolut säkerhet veta att han eller hon är i himlen?
-Svar:
+
+## Svar:
 
 Kyrkan har aldrig officiellt definierat kanonisering som en ofelbar handling, men teologerna har varit eniga om att det är så.
 
