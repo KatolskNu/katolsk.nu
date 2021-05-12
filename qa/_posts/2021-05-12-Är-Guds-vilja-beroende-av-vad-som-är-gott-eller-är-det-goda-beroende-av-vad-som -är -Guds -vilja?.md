@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Är Guds vilja beroende av vad som är gott, eller är det goda beroende av vad som är Guds vilja?"
-date:   2021-05-12 11:59:00 +0200
+date:   2021-05-12 12:15:00 +0200
 categories: qa
 description: Är Guds vilja beroende av vad som är gott, eller är det goda beroende av vad som är Guds vilja?
 excerpt: Är Guds vilja beroende av vad som är gott, eller är det goda beroende av vad som är Guds vilja?
