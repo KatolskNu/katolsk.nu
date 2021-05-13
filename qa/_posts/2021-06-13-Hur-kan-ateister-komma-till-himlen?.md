@@ -4,7 +4,7 @@ title:  "Hur kan ateister komma till himlen?"
 date:   2021-05-13 13:25:00 +0200
 categories: qa
 description: Den som uttryckligen förkastar evangeliet och kyrkan kan inte bli frälst.  All frälsning kommer från Kristus och kyrkan är det synliga tecknet och instrumentet för denna frälsning. Det finns några sätt att ta itu med frågan om ateism. 
-excerpt:Den som uttryckligen förkastar evangeliet och kyrkan kan inte bli frälst.  All frälsning kommer från Kristus och kyrkan är det synliga tecknet och instrumentet för denna frälsning. Det finns några sätt att ta itu med frågan om ateism.
+excerpt: Den som uttryckligen förkastar evangeliet och kyrkan kan inte bli frälst.  All frälsning kommer från Kristus och kyrkan är det synliga tecknet och instrumentet för denna frälsning. Det finns några sätt att ta itu med frågan om ateism.
 ---
 
 
