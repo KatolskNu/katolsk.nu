@@ -11,7 +11,7 @@ excerpt: Varför lär katolikerna ut att Maria var jungfru under hela sitt liv n
 {% include translated.html 
     title="Jesus had brothers?" 
     url="https://www.catholic.com/magazine/online-edition/jesus-had-brothers"
-     date="17/05/2021 (accessed)" 
+     date="17/09/2013" 
     author="Matt Fradd" 
     authorUrl="https://www.catholic.com/profile/matt-fradd" 
 %}
@@ -30,7 +30,9 @@ Ta till exempel 1 Mosebok 13:8. Här används ordet bror för att beskriva förh
 
 > Så sade Abram till Lot: "Då sade Abram till Lot: "Inte skall det vara någon tvist mellan mig och dig eller mellan mina herdar och dina. Vi är ju **bröder**. (1 Mos 13:8, SFB; se även 14:12).
 
-På grund av Bibelns breda semantiska räckvidd för "broder" kan vi vara säkra på att även om Paulus skriver att "Därefter visade han sig för mer än femhundra **bröder** på en gång, av vilka de flesta ännu lever, medan några är insomnade." (1 Kor 15:6), behöver vi inte dra slutsatsen från denna vers att Maria födde mer än 500 barn!
+På grund av Bibelns breda semantiska räckvidd för "broder" kan vi vara säkra på att även om Paulus skriver att 
+> "Därefter visade han sig för mer än femhundra **bröder** på en gång, av vilka de flesta ännu lever, medan några är insomnade." (1 Kor 15:6), 
+behöver vi inte dra slutsatsen från denna vers att Maria födde mer än 500 barn!
 
 ## 2. Barn till Maria?
 
@@ -42,7 +44,7 @@ Jakob och Josef (även kallade Joses), som kallas Jesu "bröder" (Mark 6:3), är
 
 Efter Matteus redogörelse för Jesu korsfästelse och död skriver han:
 
-"Bland dem var Maria från Magdala och Maria, som var Jakobs och Josefs mor, och modern till Sebedeus söner." (Matt. 27:56; se även Mark. 15:40).
+> "Bland dem var Maria från Magdala och Maria, som var Jakobs och Josefs mor, och modern till Sebedeus söner." (Matt. 27:56; se även Mark. 15:40).
 
 
 ## 4. Den tidiga kyrkans samförstånd
