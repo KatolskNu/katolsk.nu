@@ -3,7 +3,7 @@ layout: post
 title:  "Var Jesu uppståndelse fysisk eller rent andlig?"
 date:   2021-05-12 11:59:00 +0200
 categories: qa
-description: Temat faderskap återfinns i hela skriften. Har du någonsin undrat när de troende började kalla Gud för "Fader"? 
+description: Jehovas vittnen använder ofta denna lögn för att stödja sin uppfattning att Jesus är ärkeängeln Mikael. För att försöka bevisa att Jesus inte uppstod fysiskt citerar de 1 Petrus 3:18 och 1 Korintierbrevet 15:45, där det står att Jesus "dödades i köttet men blev levande i anden" och att "[Jesus] blev en livgivande ande" "[för] kött och blod kan inte ärva riket."
 excerpt: Jehovas vittnen använder ofta denna lögn för att stödja sin uppfattning att Jesus är ärkeängeln Mikael. För att försöka bevisa att Jesus inte uppstod fysiskt citerar de 1 Petrus 3:18 och 1 Korintierbrevet 15:45, där det står att Jesus "dödades i köttet men blev levande i anden" och att "[Jesus] blev en livgivande ande" "[för] kött och blod kan inte ärva riket."
 
 ---
