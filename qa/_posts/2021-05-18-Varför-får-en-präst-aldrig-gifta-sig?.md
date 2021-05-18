@@ -8,7 +8,6 @@ excerpt: I de östliga riterna i kyrkan är det vanligt att gifta män prästvig
 ---
 
 
-
 {% include translated.html 
     title="Why Can’t a Priest Ever Marry?"
     url="https://www.catholic.com/qa/why-cant-a-priest-ever-marry"
