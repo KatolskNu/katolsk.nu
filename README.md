@@ -13,7 +13,7 @@ The blog is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages. 
 3. Send it by mail to us at contact@katolsk.nu
 
 ## Normal method
-1. Choose an interesting article on [Catholic answers](https://www.catholic.com/). Preferably a topic that you are interested in and that is quite easy to read.
+1. Choose an interesting article/q&a/tract on [Catholic answers](https://www.catholic.com/). Preferably a topic that you are interested in and that is quite easy to read.
 2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
 5. Paste the content in a new file. The file should be in the corresponding folder:
 
