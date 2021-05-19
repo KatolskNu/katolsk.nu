@@ -21,9 +21,9 @@ The blog is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages. 
 | --- | --- |
 | article | ```_posts``` | 
 | Q&A | ```qa/_posts/``` |
-| tracts | [```tract/_posts/```](katolsk.nu/tree/master/tract/_posts/) |
+| tracts | [```tract/_posts/```](/tract/_posts/) |
 
-6. The document should have the title ```YEAR-MONTH-DAY-title.md```. 
+6. The document should have the title ```YEAR-MONTH-DAY-title.md```, ex: ```2021-05-19-This-is-the-title.md```. 
 7. Add the header (at the top of the document) to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
 
 ### Header: 
