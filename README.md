@@ -1,22 +1,29 @@
 # Katolsk.Nu
 
-[Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish. It is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages.
+[Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish 🇸🇪🇻🇦.
 
 ![Saint Louis](assets/saint-louis.jpg)
 ---
 # Add a new article
+The blog is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages. You can check [Jekyll's documentation](https://jekyllrb.com/) if you want to learn more.
+
 ## Easy method
 1. Choose an interesting article/q&a/tract on [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
 2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
 3. Send it by mail to us at contact@katolsk.nu
 
 ## Normal method
-1. Choose an interesting article on [Catholic answers](https://www.catholic.com/). Choose a topic that you are interested in and that is quite easy to read.
+1. Choose an interesting article on [Catholic answers](https://www.catholic.com/). Preferably a topic that you are interested in and that is quite easy to read.
 2. Use [DeepL](https://www.deepl.com/translator) to translate the content from English to Swedish. Manually review the translation and make some changes so that it sounds as correct as possible.
-5. Paste the content in a new file in the ```_posts``` folder for article, ```qa/_posts/``` for Q&A or ```tract/_posts/``` for tracts.
-The document should have the title ```YEAR-month-day-title.md```. 
-6. Add the header to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
+5. Paste the content in a new file. The file should be in the corresponding folder:
+|article|```_posts```| 
+|Q&A|```qa/_posts/```| 
+|tracts|[```tract/_posts/```](katolsk.nu/tree/master/tract/_posts/)
+|
+6. The document should have the title ```YEAR-MONTH-DAY-title.md```. 
+7. Add the header (at the top of the document) to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
 
+### Header: 
 ```markdown
 ---
 layout: post
