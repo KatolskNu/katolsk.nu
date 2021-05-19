@@ -2,6 +2,7 @@
 
 [Katolsk.Nu](https://katolsk.nu) is an open source blog for Catholic apologetics in Swedish. It is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages.
 
+![Saint Louis](assets/saint-louis.jpg)
 ---
 # Add a new article
 ## Easy method
