@@ -9,7 +9,7 @@ excerpt: Att säga att Maria är Guds moder låter som att säga att hon är kä
 
 
 {% include translated.html 
-    title="Did Mary Have Free Will?" 
+    title="How Can Mary Be God’s Mother, but Not the Mother of the Trinity?" 
     url="https://www.catholic.com/qa/how-can-mary-be-gods-mother-but-not-the-mother-of-the-trinity"
      date="19/05/2021 (accessed)" 
     author="Peggy Frye" 
