@@ -16,7 +16,8 @@
 5. Paste the content in a new file in the ```_posts``` folder for article, ```qa/_posts/``` for Q&A or ```tract/_posts/``` for tracts.
 The document should have the title ```YEAR-month-day-title.md```. 
 6. Add the header to the file like the following. Fix the title, the date, the tags, the description, the excerpt and finally the include tag.
-```
+
+```markdown
 ---
 layout: post
 title:  "Att be till de heliga"
