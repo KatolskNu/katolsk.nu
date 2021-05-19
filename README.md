@@ -19,8 +19,8 @@ The blog is based on [Jekyll](https://jekyllrb.com/) and hosted on Gitub Pages. 
 
 | Type | Path |
 | --- | --- |
-| article | ```_posts``` | 
-| Q&A | ```qa/_posts/``` |
+| article | [```/_posts/```](/_posts/) | 
+| Q&A | [```qa/_posts/```](/qa/_posts/) |
 | tracts | [```tract/_posts/```](/tract/_posts/) |
 
 6. The document should have the title ```YEAR-MONTH-DAY-title.md```, ex: ```2021-05-19-This-is-the-title.md```. 
