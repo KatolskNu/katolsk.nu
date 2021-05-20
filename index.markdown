@@ -7,6 +7,6 @@ title: Home
 ---
 
 
-Katolsk.Nu är en blogg med öppen källkod för att förklara den katolska tron på svenska. 🇸🇪🇻🇦
+Katolsk.Nu är en open-source blogg för att förklara den katolska tron på svenska. 🇸🇪🇻🇦
 
 
