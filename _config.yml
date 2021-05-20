@@ -51,7 +51,7 @@ header_pages:
 # FIx date format
 minima:
   date_format: "%Y-%m-%d"
-
+google_analytics: "UA-197607718-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
