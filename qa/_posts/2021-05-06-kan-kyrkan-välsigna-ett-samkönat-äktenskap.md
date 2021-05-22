@@ -14,7 +14,7 @@ excerpt: Kan homosexuella äktenskap någonsin vara syndfria? Kan en präst väl
      date="06/05/2021 (accessed)" 
     author="Tom Nash" 
     authorUrl="https://www.catholic.com/profile/tom-nash" 
-%}a
+%}
 
 ## Fråga:
 Kan homosexuella äktenskap någonsin vara syndfria? Kan en präst välsigna ett homosexuellt par?
