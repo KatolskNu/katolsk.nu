@@ -3,6 +3,7 @@ layout: post
 title:  "Hade Maria en fri vilja?"
 date:   2021-05-19 12:39:00 +0200
 categories: qa
+tags: maria
 description: Är det inom katolsk ortodoxi att tro att Maria hade frihet att begå personlig synd men valde att samarbeta med Guds nåd?
 excerpt: Är det inom katolsk ortodoxi att tro att Maria hade frihet att begå personlig synd men valde att samarbeta med Guds nåd?
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Skulle Jesus existera utan Maria?"
 date:   2021-05-19 12:39:00 +0200
 categories: qa
+tags: maria
 description: Att säga att Maria är Guds moder låter som att säga att hon är källan till Jesu gudomlighet och treenighetens moder. Hur ska jag förstå detta?
 excerpt: Att säga att Maria är Guds moder låter som att säga att hon är källan till Jesu gudomlighet och treenighetens moder. Hur ska jag förstå detta?
 ---

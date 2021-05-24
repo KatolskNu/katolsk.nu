@@ -3,7 +3,7 @@ layout: post
 title:  "Att be till helgon"
 date:   2021-04-28 15:00:00 +0200
 categories: tract
-tags: heliga bön 
+tags: heliga bön maria
 description: Många ifrågasätter det historiska bruket att be helgon i himlen om deras förbön. Utforska de vanligaste argumenten och den katolska uppfattningen.
 excerpt: Det historiska kristna bruket att be våra avlidna bröder och systrar i Kristus - de heliga - om deras förbön har angripits under de senaste hundra åren. Även om bruket går tillbaka till kristendomens tidigaste dagar och delas av katoliker, östortodoxa, andra östliga kristna och till och med av vissa anglikaner, är det fortfarande utsatt för kraftiga angrepp från många inom den protestantiska rörelsen som startade på 1500-talet.
 ---
