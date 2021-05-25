@@ -50,39 +50,48 @@ ul.post-list > li {
     padding: 5px;
 
 }
-
 .menu-entry {
     margin: 5px;
     width: 200px;
     position: relative;
     display: block;
-     box-shadow:  0;
-     transition: box-shadow 0.2s ease-in-out;
-    &:hover {
-        box-shadow: 5px 5px 5px 5px #ccc;
-    }
+    box-shadow: 0;
+    transition: box-shadow 0.2s ease-in-out;
     border-radius: 35px;
+}
+
+.menu-entry:hover {
+    box-shadow: 5px 5px 5px 5px #ccc;
+}
+
+.menu-entry img {
+    border-radius: 35px;
+    position: relative;
+    border: 1px solid #ccc;
+}
+
+.menu-entry .desc {
+    position: absolute;
+    top: calc(50% - 15px);
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.menu-entry a {
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
 
 
-    img {
-        border-radius: 35px;
-        position:relative;
-        border: 1px solid #ccc;
+        
+
     }
 
-    
-
-    .desc {
-        position: absolute;
-        top: calc(50% - 15px);
-        text-align:center;
-        padding: 5px;
-        width:100%;
-        background: rgba(0, 0, 0, 0.6);
-
-
-
-        a {
+    .menu-entry a {
             color: white;
             font-size: 25px;
             text-transform: uppercase;
@@ -90,6 +99,3 @@ ul.post-list > li {
 
 
         }
-
-    }
-}
