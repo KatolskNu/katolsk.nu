@@ -45,9 +45,8 @@ jekyll-archives:
     - tags
 
 header_pages:
-  - links.markdown
   - home.markdown
-
+  
 # FIx date format
 minima:
   date_format: "%Y-%m-%d"
