@@ -2,7 +2,8 @@
 layout: post
 title:  "Kan jag fortfarande använda min Rosenkrans om krucifixet har fallit av?"
 date:   2021-05-06 10:30:00 +0200
-categories: qa rosenkrans
+categories: qa 
+tags: rosenkrans
 description: Vad händer om krucifixet på din rosenkrans faller av? Kan du fortfarande använda det? Klicka här för ett svar.
 excerpt: Vad händer om krucifixet på di rosenkrans faller av? Kan du fortfarande använda det? Klicka här för ett svar.
 ---

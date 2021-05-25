@@ -2,7 +2,7 @@
 layout: post
 title:  "Tillber katoliker statyer?"
 date:   2021-04-25 15:55:22 +0200
-categories: staty
+categories: article
 description: Bryter katoliker mot Guds förbud mot avgudadyrkan genom att dyrka statyer? Vi sätter stopp för detta falska påstående en gång för alla.
 excerpt: Katoliker använder statyer, målningar och andra konstverk för att påminna om den person eller sak som avbildas. På samma sätt som det hjälper att minnas sin mamma genom att titta på hennes fotografi, hjälper det att minnas helgonens exempel genom att titta på bilder av dem. Katoliker använder också statyer som undervisningsverktyg. I den tidiga kyrkan var de särskilt användbara för undervisning av analfabeter. 
 ---

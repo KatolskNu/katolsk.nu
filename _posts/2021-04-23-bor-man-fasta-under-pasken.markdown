@@ -2,7 +2,8 @@
 layout: post
 title:  "Bör man fasta under påsken?"
 date:   2021-04-23 12:55:22 +0200
-categories: påsk fasta
+tags: påsk fasta
+categories: article
 description: Fastan under påskens fredagar förhindrar att vår påskhögtid blir så hög att vi glömmer korset. 
 excerpt: Det är välkänt att katoliker avstår från kött på fredagar under fastan, och att askonsdagen och långfredagen är fastedagar då vi skär ner på hur mycket vi äter. Men hur är det med resten av året?
 ---
