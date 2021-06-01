@@ -11,7 +11,7 @@ Katolsk.Nu är en open-source blogg för att förklara den katolska tron på sve
 
 <div id="image-container">
     <div class="menu-entry">
-        <img src="/assets/mary.jpg">
+        <img src="/assets/mary200.jpg">
         <div class="desc">
             <a href="/tag/maria">Maria</a>
         </div>
