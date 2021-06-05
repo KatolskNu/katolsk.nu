@@ -2,7 +2,7 @@
 layout: post
 title:  "Novena till Jesu Heliga Hjärta"
 date:   2021-06-05 11:13:00 +0200
-categories: novena
+categories: bön
 description: Devotionen till Jesu Heliga Hjärta är en av de viktigaste vi har och är en symbol för Jesu gudomliga kärlek som också älskat oss genom ett mänskligt hjärta. Som utan undantag älskar den evige Fadern och alla människor.  I 1899 konsekrerade Påven Leo XIII hela världen till Jesu Heliga Hjärta.
 excerpt: Devotionen till Jesu Heliga Hjärta är en av de viktigaste vi har och är en symbol för Jesu gudomliga kärlek som också älskat oss genom ett mänskligt hjärta. Som utan undantag älskar den evige Fadern och alla människor.  I 1899 konsekrerade Påven Leo XIII hela världen till Jesu Heliga Hjärta.
 ---
