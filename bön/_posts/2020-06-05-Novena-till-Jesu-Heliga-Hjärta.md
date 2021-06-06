@@ -11,6 +11,9 @@ excerpt: Devotionen till Jesu Heliga Hjärta är en av de viktigaste vi har och 
 *Denna novena publiceras som ett ideellt initiativ från Helige Eriks Legion att gratis tillgängliggöra och översätta böner samt texter för Sveriges katoliker. För Sveriges omvändelse och spridandet av den Katolska tron och traditionen. Vi låter texterna användas fritt men ber endast dig som använder bönen att om du, käre broder och syster i Kristus, vid möjlighet kan tillägna en dekad (eller annan valfri bön) för Erikslegionens fortsatta ungdomsarbete. Tack.*
 
 ---
+<br />
+
+Denna novena har för Erikslegionen översatts och sammanställts av *Max Martin Skalenius* 
 
 <br/>
 
