@@ -26,17 +26,13 @@ Vi kallar Maria för "Guds moder" eftersom det är precis vad hon är. För att 
 
 Sedan hans inkarnation har Jesus haft två naturer, en gudomlig och en mänsklig. Dessa naturer är helt förenade (vilket innebär att han är helt och hållet Gud och helt och hållet människa). Det tekniska ordet för detta är den hypostatiska föreningen.
 
-Även om Jesus har två naturer är han bara en person - Gud - den andra personen i treenigheten. Av denna anledning kallas Jesus med rätta för "gudsmannen". (Med termen natur menar vi vad Jesus är, med termen person menar vi vem han är).
+Även om Jesus har två naturer är han bara en person - Gud - den andra personen i treenigheten. 
 
 
-
-Eftersom den Son som föddes av Maria är en enda person (och den personen är Gud) med två naturer kan Maria med rätta kallas Guds moder. Den person som hon är mor till är Gud - hon är inte, strikt och filosofiskt sett, en mänsklig person, som vi är.
+Eftersom den Son som föddes av Maria är en enda person (och den personen är Gud) med två naturer kan Maria med rätta kallas Guds moder. Den person som hon är mor till är Gud - han är inte, strikt och filosofiskt sett, en mänsklig person, som vi är.
 
 Detta betyder inte att Maria existerade före Gud (vilket är en omöjlighet). Hon är en mänsklig person med en mänsklig natur. Hon existerade innan Jesu mänskliga natur skapades.
 
 Här är ett annat sätt att se på saken. En kvinna kan inte vara mor enbart av en natur. Hon kan bara vara mor till en person som har en natur. När ett barn blir avlat är det en person, inte bara en natur.
 
-Samma sak gäller för Jesus, annars skulle han vara två personer utöver att ha två naturer. Eftersom Maria inte är mor till Jesu mänskliga natur utan till Jesus Gudsmannen, en gudomlig person, kallas hon med rätta Guds moder.
-
-
-Translated with www.DeepL.com/Translator (free version)
+Samma sak gäller för Jesus, annars skulle han vara två personer utöver att ha två naturer. Eftersom Maria inte är mor till Jesu mänskliga natur utan till Jesus, en gudomlig person, kallas hon med rätta Guds moder.
