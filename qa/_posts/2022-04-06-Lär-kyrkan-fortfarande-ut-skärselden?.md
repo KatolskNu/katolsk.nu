@@ -11,7 +11,7 @@ excerpt: "De rättfärdigas själar som i dödsögonblicket är belastade med mi
 
 {% include translated.html 
     title="Does the Church Still Teach Purgatory?"
-    url=https://www.catholic.com/qa/does-the-church-still-teach-purgatory"
+    url="https://www.catholic.com/qa/does-the-church-still-teach-purgatory"
      date="06/04/2022 (accessed)" 
     author="Peggy Frye" 
     authorUrl="https://www.catholic.com/profile/peggy-frye"
