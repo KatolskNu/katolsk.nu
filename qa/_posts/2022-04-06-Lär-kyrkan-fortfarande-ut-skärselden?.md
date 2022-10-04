@@ -4,8 +4,8 @@ title:  "Lär kyrkan fortfarande ut skärselden?"
 date:   2022-04-06 20:24:00 +0200
 categories: qa
 tags: skärselden
-description: "De rättfärdigas själar som i dödsögonblicket är belastade med mindre synder eller tidsligt straff på grund av synder, går in i skärselden" (De fide).  
-excerpt: "De rättfärdigas själar som i dödsögonblicket är belastade med mindre synder eller tidsligt straff på grund av synder, går in i skärselden" (De fide).  
+description: De rättfärdigas själar som i dödsögonblicket är belastade med mindre synder eller tidsligt straff på grund av synder, går in i skärselden (De fide).  
+excerpt: De rättfärdigas själar som i dödsögonblicket är belastade med mindre synder eller tidsligt straff på grund av synder, går in i skärselden (De fide).  
 ---
 
 
